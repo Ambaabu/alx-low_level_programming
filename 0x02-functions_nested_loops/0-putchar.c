@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- *main - prints _putchar 
+ * main -prints _putchar 
  * Description: prints _putchar
- * Return: Always 0(success)  
+ * Return:Always 0(success)  
  */
 int main(void)
 {
@@ -14,6 +14,6 @@ int main(void)
 		_putchar(text[i]);
 	}
 	_putchar('\n');
-	 return (0);
+	return (0);
 }
 
