@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * main - check the code
- * Description:concatenates two strings
+ * Description: concatenates two strings
  * Return: Always 0.
  */
 int main(void)
